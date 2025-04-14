@@ -1,5 +1,5 @@
-2025-04-13 18:43:26.785389 - Received CBT.V508.FILE328.PDS from FILE328.XMI 
-2025-04-13 18:43:26.786055 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE328.PDS, moved to PDS/$$$#DATE
-2025-04-13 18:43:26.786151 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE328.PDS, moved to PDS/$$$DOC
-2025-04-13 18:43:26.786226 - Found @FILE328.txt (text/plain) in CBT.V508.FILE328.PDS, moved to PDS/@FILE328
-2025-04-13 18:43:26.786419 - Found IGGPRE00.txt (text/plain) in CBT.V508.FILE328.PDS, moved to PDS/IGGPRE00
+2025-04-15 01:33:54.762152 - Received CBT.V508.FILE328.PDS from FILE328.XMI 
+2025-04-15 01:33:54.763281 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE328.PDS, moved to PDS/$$$#DATE
+2025-04-15 01:33:54.763617 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE328.PDS, moved to PDS/$$$DOC
+2025-04-15 01:33:54.763783 - Found @FILE328.txt (text/plain) in CBT.V508.FILE328.PDS, moved to PDS/@FILE328
+2025-04-15 01:33:54.764661 - Found IGGPRE00.txt (text/plain) in CBT.V508.FILE328.PDS, moved to PDS/IGGPRE00
